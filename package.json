@@ -1,0 +1,21 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.30.1",
+    "parcel": "^2.0.0-beta.1",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "sass": "^1.62.0"
+  }
+}
